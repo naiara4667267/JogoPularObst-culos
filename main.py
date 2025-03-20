@@ -3,7 +3,6 @@ import pygame
 print("Setup Start")
 # Começa o Pygame
 pygame.init()
-
 window = pygame.display.set_mode(size=(600, 480))
 print("Setup End")
 
